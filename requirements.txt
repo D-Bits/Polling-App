@@ -1,5 +1,5 @@
 cryptography==1.7.1
-Django==2.2.3
+Django==2.2.4
 idna==2.2
 keyring==10.1
 keyrings.alt==1.3
